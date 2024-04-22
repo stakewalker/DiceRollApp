@@ -1,4 +1,4 @@
-# DiceRollApp
+# Dice Roll Android App
 
 Simple Android app that rolls a dice the "Roll" button is pressed
 
